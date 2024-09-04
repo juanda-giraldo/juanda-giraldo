@@ -1,4 +1,10 @@
-## Hola, Mi Nombre es Juan David Giraldo, Bienvenido a mi GITHUB 👋
+# Hola, Mi Nombre es Juan David Giraldo, Bienvenido a mi GITHUB 👋
+
+![https://github.com/juanda-giraldo](./banner.png)
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN%20-%20JUAN%20DAVID%20GIRALDO%20OJEDA%20-%20rgb(10%20102%20194)?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juandgo/)
+
+
 
 <!--
 **juanda-giraldo/juanda-giraldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
